@@ -11,6 +11,7 @@ import {app} from "./index";
 import {DetailItemPage} from "./page/DetailItemPage";
 import {PaymentPage} from "./page/PaymentPage";
 import {useTranslation} from "react-i18next";
+import {ChartPage} from "./page/ChartPage";
 
 export const UserContext = createContext(null)
 
@@ -77,6 +78,7 @@ function App() {
                     <Route path={"/register"} element={<RegisterPage />} />
                     <Route path={"/item/:id"} element={<DetailItemPage />} />
                     <Route path={"/payment"} element={<PaymentPage />} />
+                    <Route path={"/statistic"} element={<ChartPage />} />
                   </Routes>
                 </BrowserRouter>
             }

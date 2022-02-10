@@ -2,6 +2,47 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Firebase-E-Commerce
+
+The purpose of this project is to simulate a simple e-commerce site. This project is made with react. The backend part is made with Firebase. Firebase Firestore is used as database. Filtering operations are also available with this database.
+
+There is a light and dark theme in the application. In addition, Turkish and English language options are available. MUI is used as UI.
+
+## Application Feature
+
+<ul>
+    <li>
+        Firebase
+    </li>
+    <li>
+        Redux
+    </li>
+    <li>
+        Chart
+    </li>
+    <li>
+        MUI
+    </li>
+    <li>
+        Form Validate
+    </li>
+    <li>
+        Masked Inputs
+    </li>
+    <li>
+        I18n
+    </li>
+</ul>
+
+## ScreenShots
+
+<img src="https://github.com/maliksenpai/firebase-e-commerce/blob/master/images/image-1.jpeg" width="300px" />
+<img src="https://github.com/maliksenpai/firebase-e-commerce/blob/master/images/image-1-light.jpeg" width="300px" />
+<img src="https://github.com/maliksenpai/firebase-e-commerce/blob/master/images/image-2.jpeg" width="300px" />
+<img src="https://github.com/maliksenpai/firebase-e-commerce/blob/master/images/image-3.jpeg" width="300px" />
+<img src="https://github.com/maliksenpai/firebase-e-commerce/blob/master/images/image-4.jpeg" width="300px" />
+<img src="https://github.com/maliksenpai/firebase-e-commerce/blob/master/images/image-5.jpeg" width="300px" />
+
 ## Available Scripts
 
 In the project directory, you can run:

@@ -40,6 +40,7 @@ export function CartPage() {
                   fontWeight={"bolder"}
                   color={"orange"}>
                   {cartState.totalPrice}
+                  ₺
                 </Typography>
               </Typography>
             </Box>

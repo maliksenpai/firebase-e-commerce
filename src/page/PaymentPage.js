@@ -81,12 +81,6 @@ export function PaymentPage() {
 
   return <Container>
     <Box height={"90vh"} display={"flex"} alignItems={"center"} justifyItems={"center"} flexDirection={"column"}>
-      <Card
-        name="John Smith"
-        number="5555 4444 3333 1111"
-        expiry="10/20"
-        cvc="737"
-      />
       <Box width={"40vw"}>
         <Box py={2}>
           <InputMask

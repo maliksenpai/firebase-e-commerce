@@ -31,6 +31,7 @@ export const en = {
     "language": "Language",
     "theme": "Theme",
     "addCart": "Add Cart",
-    "removeCart": "Remove Cart"
+    "removeCart": "Remove Cart",
+    "statistic": "Statistic"
   }
 };

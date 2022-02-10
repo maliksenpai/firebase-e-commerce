@@ -83,6 +83,11 @@ export function MainAppBar() {
             </UnStyledLink>
           </Typography>
           <Box>
+            <UnStyledLink to={"/statistic"}>
+              {t("statistic")}
+            </UnStyledLink>
+          </Box>
+          <Box>
             <IconButton onClick={handleSettingsClick}>
               <Settings />
             </IconButton>

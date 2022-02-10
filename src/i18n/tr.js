@@ -31,6 +31,7 @@ export const tr = {
     "language": "Dil",
     "theme": "Tema",
     "addCart": "Sepete Ekle",
-    "removeCart": "Sepetten Çıkar"
+    "removeCart": "Sepetten Çıkar",
+    "statistic": "İstatistik"
   }
 };
